@@ -1,0 +1,29 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    color: white;
+    padding: 5px 13px;
+    background-color: var(--main-bg-color);
+    border: 2px solid white;
+    border-radius: 7px;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+    margin: -30px;
+}
+.btn-2{
+    color:var(--main-bg-color);;
+    margin: 30px;
+    padding:  5px 7px;
+    background-color: white;
+    font-family: 'Lato', sans-serif;
+}
+my_1{
+    margin: 26px 0;
+}
+my_1{
+    margin: 26px 0;
+}
